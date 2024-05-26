@@ -80,15 +80,59 @@ Bottom 5 States of 2019 in terms of voter turnout ratio
 
 # 5) Top 5 candidates based on margin difference with runners in 2014 and 2019 ?
 
+2014
+
+![Screenshot 2024-05-26 at 23-20-24 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/9fdfa6c7-18fc-4492-898f-6387580a8cf4)
+
+2019
+![Screenshot 2024-05-26 at 23-20-49 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/88d1f6cd-be79-4940-9e9b-caa425139e52)
+
 # 6)  % split of votes of parties between 2014 vs 2019 at national level ?
+
+2014
+
+
+![Screenshot 2024-05-26 at 23-30-11 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/26edab69-60a6-451d-b89e-897b89a666f3)
+
+2019
+
+![Screenshot 2024-05-26 at 23-30-16 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/f97ec4c8-40f4-49b8-8807-2e8401fc09d9)
+
 
 # 7) % split of votes of parties between 2014 vs 2019 at state level ?
 
+![Untitled6](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/5ae68191-d35a-4bdb-b0a0-f68f67faa3ce)
+![Untitled7](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/c886eae6-9719-4d83-8fb0-4e49678bd812)
+![Untitled8](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/10d2bb9c-9368-431e-89ba-c030782945f9)
+![Untitled9](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/92073c41-1f27-408e-99b2-097eadb9b4d3)
+![Untitled](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/66a967e3-3e56-49a6-b63d-5e8b56cc3442)
+
+
+
 # 8) List top 5 constituencies for two major national parties where they have gained vote share in 2019 as compared to 2014 ?
+
+
+![Screenshot 2024-05-26 at 23-33-19 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/0f5135e1-25c5-4418-8497-d3340976251b)
+
+![Screenshot 2024-05-26 at 23-33-26 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/5f0d99ab-4446-43a1-9159-a91aebff28ca)
 
 # 9) List top 5 constituencies for two major national parties where they have lost vote share in 2019 as compared to 2014 ?
 
+![Screenshot 2024-05-26 at 23-33-33 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/21f6ce3a-c001-43ec-ac45-08ccb681055b)
+
+![Screenshot 2024-05-26 at 23-33-40 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/ccc95531-36f1-41e4-afd6-88527cafa74d)
+
+
+
 # 10) Which constituency has voted the most for nota?
 
+![132](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/0a035ff5-0ee2-408e-80dd-48b8d6191d75)
+
+![Untitled234](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/0c2f2db9-30e4-47f6-b192-9962e8bab16c)
+
+# 11) Which constituencies have elected candidates whose party has less than 10% vote share at state level in 2019?
 
 
+![Screenshot 2024-05-26 at 23-37-06 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/f13556b3-0bc3-4898-8288-258b7ad642cc)
+
+![Screenshot 2024-05-26 at 23-37-21 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/2ea00e1d-ef10-4c19-80a3-a04e2afe97d1)
