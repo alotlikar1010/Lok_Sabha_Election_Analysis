@@ -70,7 +70,13 @@ Bottom 5 States of 2019 in terms of voter turnout ratio
 
 # 3) Which constituencies have elected the same party for 2 consecutive elections, rank them by % of votes to that winning party in 2019 ?
 
+
+![Screenshot 2024-05-26 at 23-20-24 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/5c8f88b5-0595-46ba-90a9-e65efdab4d07)
+
 # 4) Which constituencies have voted for different parties in two elections (list top 10 based on difference (2019-2014) in winner vote percentage in two elections) ?
+
+
+![Screenshot 2024-05-26 at 23-20-49 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/b8eb9a10-d4a6-4273-ad18-240a8742c44d)
 
 # 5) Top 5 candidates based on margin difference with runners in 2014 and 2019 ?
 
