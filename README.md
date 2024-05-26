@@ -16,10 +16,10 @@ Imagine yourself as Peter Pandey and perform following tasks.
   Top 5 Constituencies of 2014 in terms of voter turnout ratio
 
   
-![Q1 1](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/223e1bd3-29a1-4ea8-9c2d-d7375f0e281a)
+![Q1 1](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/223e1bd3-29a1-4ea8-9c2d-d7375f0e281a) ![Q1 2](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/afc07d1e-cd76-40ff-84fc-9db525ff73cd)
 
 
-![Q1 2](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/afc07d1e-cd76-40ff-84fc-9db525ff73cd)
+
 
   Bottom 5 Constituencies of 2014 in terms of voter turnout ratio
   
