@@ -27,3 +27,12 @@ Imagine yourself as Peter Pandey and perform following tasks.
 
   
 ![Untitled2](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/73b1cb32-e3b8-4d31-8650-cf343ed564cf)
+
+ Top 5 Constituencies of 2019 in terms of votor turnout ratio
+
+![Screenshot 2024-05-26 at 22-37-30 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/f1941145-49c9-4aaa-a13c-ca655cff0eac)
+
+
+![Untitled3](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/4cc73040-feb5-432b-bbab-006b453564de)
+
+
