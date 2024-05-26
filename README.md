@@ -1,4 +1,4 @@
-# **Loksabha Elections Data Analysis** for Codebasics Resume Project Challenge #11
+# **Loksabha Elections Data Analysis** 
 
 ## Problem Statement
 AtliQ Media is a private media company and they wanted to telecast a show on LokSabha eletions 2024 in India. Unlike others channels they do not want to have a debate on who is going to win this election, they rather wanted to present insights from 2014 and 2019 elections without any bias and discuss less explored themes like voter turnout percentage in India. Peter is a data analyst in the company, and he is handed over this task of generating meaningful insights from data. Since this is a sensitive topic, he seeked help from his manager Tony Sharma who provided the list of primary and secondary questions.
@@ -10,7 +10,7 @@ Imagine yourself as Peter Pandey and perform following tasks.
 3. Be creative with your presentation, audio/video presentation will have more weightage. You will be presenting these insights to the chief editor Bruce Haryali - he appreciates good storytelling and consice presentation.
 
 
-# Primary Question 
+## Primary Question 
 
 # 1) List top 5/ bottom 5 constituencies of 2014 and 2019 in terms of voter turnout ratio?
   Top 5 Constituencies of 2014 in terms of voter turnout ratio
@@ -136,3 +136,21 @@ Bottom 5 States of 2019 in terms of voter turnout ratio
 ![Screenshot 2024-05-26 at 23-37-06 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/f13556b3-0bc3-4898-8288-258b7ad642cc)
 
 ![Screenshot 2024-05-26 at 23-37-21 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/2ea00e1d-ef10-4c19-80a3-a04e2afe97d1)
+
+
+## Secondary Question
+
+# 1) Is there a correlation between postal votes % and voter turnout %?
+
+![Untitle2](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/ad600646-0a72-486f-939e-82cf82911605)
+
+
+# 2) Is there any correlation between GDP of a state and voter turnout %?
+
+
+![Untitled88](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/3ca28e75-8e0a-458d-8eb7-f27a4dd3d17e)
+
+# 3) Is there any correlation between literacy % of a state and voter turnout %?
+
+![pp](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/1216ff7a-3692-4eec-972e-daeee4c784c3)
+
