@@ -20,3 +20,10 @@ Imagine yourself as Peter Pandey and perform following tasks.
 
 
 ![Q1 2](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/afc07d1e-cd76-40ff-84fc-9db525ff73cd)
+
+  Bottom 5 Constituencies of 2014 in terms of votor turnout ratio
+  
+![Screenshot 2024-05-26 at 22-36-06 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/f73f72e2-75b2-4ce4-b843-f60f80759dc3)
+
+  
+![Untitled2](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/73b1cb32-e3b8-4d31-8650-cf343ed564cf)
