@@ -44,6 +44,30 @@ Imagine yourself as Peter Pandey and perform following tasks.
 
 # 2) List top 5/ bottom 5 states of 2014 and 2019 in terms of voter turnout ratio ?
 
+Top 5 States of 2014 in terms of voter turnout ratio
+![Screenshot 2024-05-26 at 22-58-08 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/31c6270d-72f0-4276-b9b2-fee2da250fce)
+
+![Untitled2](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/8aa2cce4-48d3-4423-a319-d6eeb82858a6)
+
+Bottom 5 States of 2014 in terms of voter turnout ratio
+
+![Screenshot 2024-05-26 at 22-59-09 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/e8903b95-82e4-4f41-b303-917ddca24492)
+
+![Untitled3](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/e65bc482-1516-4937-b41c-214fc9e63761)
+
+Top 5 States of 2019 in terms of voter turnout ratio
+
+![Screenshot 2024-05-26 at 22-59-56 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/0008fabc-fee9-484a-8ba7-ca74dfd96c0f)
+
+![Untitled4](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/7329f5fe-4721-48f1-b8b0-522a109db75a)
+
+Bottom 5 States of 2019 in terms of voter turnout ratio
+
+![Screenshot 2024-05-26 at 23-00-24 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/34132567-bd43-467b-a678-357afd2d4fb1)
+
+![Untitled5](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/f5618523-0bbb-414f-9182-34e0591dd2d6)
+
+
 # 3) Which constituencies have elected the same party for 2 consecutive elections, rank them by % of votes to that winning party in 2019 ?
 
 # 4) Which constituencies have voted for different parties in two elections (list top 10 based on difference (2019-2014) in winner vote percentage in two elections) ?
