@@ -18,7 +18,13 @@ Imagine yourself as Peter Pandey and perform following tasks.
   
 ![Q1 1](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/223e1bd3-29a1-4ea8-9c2d-d7375f0e281a) ![Q1 2](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/afc07d1e-cd76-40ff-84fc-9db525ff73cd)
 
+  # Observation
 
+  - The voter turnout ratio varies significantly among the top five constituencies, with Tura leading by a substantial margin.
+  - The difference between the highest (Tura) and the lowest (Mizoram) voter turnout ratios is approximately 10.61 percentage points.
+  - Tura, Nagaland, and ARUNACHAL EAST have relatively high voter turnout ratios compared to Daman & Diu and Mizoram.
+  - The data indicates that voter engagement was notably higher in the northeastern constituencies (Tura, Nagaland, and ARUNACHAL EAST) during the 2014 elections.
+  - Daman & Diu and Mizoram have comparatively lower voter turnout ratios, suggesting different levels of electoral participation or possible logistical challenges in these     regions during the 2014 elections.
 
 
   Bottom 5 Constituencies of 2014 in terms of voter turnout ratio
