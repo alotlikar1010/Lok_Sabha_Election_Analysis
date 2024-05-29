@@ -45,6 +45,7 @@ Imagine yourself as Peter Pandey and perform following tasks.
 # 2) List top 5/ bottom 5 states of 2014 and 2019 in terms of voter turnout ratio ?
 
 Top 5 States of 2014 in terms of voter turnout ratio
+
 ![Screenshot 2024-05-26 at 22-58-08 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/31c6270d-72f0-4276-b9b2-fee2da250fce)
 
 ![Untitled2](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/8aa2cce4-48d3-4423-a319-d6eeb82858a6)
