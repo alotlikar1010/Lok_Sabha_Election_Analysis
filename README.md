@@ -3,12 +3,6 @@
 ## Problem Statement
 AtliQ Media is a private media company and they wanted to telecast a show on LokSabha eletions 2024 in India. Unlike others channels they do not want to have a debate on who is going to win this election, they rather wanted to present insights from 2014 and 2019 elections without any bias and discuss less explored themes like voter turnout percentage in India. Peter is a data analyst in the company, and he is handed over this task of generating meaningful insights from data. Since this is a sensitive topic, he seeked help from his manager Tony Sharma who provided the list of primary and secondary questions.
 
-Task:
-Imagine yourself as Peter Pandey and perform following tasks.
-1. Begin your analysis by referrring to the 'primary_and_secondary_questions.pdf'. You can use any tool of your choice to analyze and answer these questions. More instructions are provided in this docuement.
-2. You can use additional data based on your own research to support your recommendations and provide more insights.
-3. Be creative with your presentation, audio/video presentation will have more weightage. You will be presenting these insights to the chief editor Bruce Haryali - he appreciates good storytelling and consice presentation.
-
 
 ## Primary Question 
 
@@ -87,11 +81,6 @@ Bottom 5 States of 2019 in terms of voter turnout ratio
 
 # 5) Top 5 candidates based on margin difference with runners in 2014 and 2019 ?
 
-2014
-
-![Screenshot 2024-05-26 at 23-20-24 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/9fdfa6c7-18fc-4492-898f-6387580a8cf4)
-
-2019
 ![Screenshot 2024-05-26 at 23-20-49 Election_Analysis - Jupyter Notebook](https://github.com/alotlikar1010/Lok_Sabha_Election_Analysis/assets/111042540/88d1f6cd-be79-4940-9e9b-caa425139e52)
 
 # 6)  % split of votes of parties between 2014 vs 2019 at national level ?
